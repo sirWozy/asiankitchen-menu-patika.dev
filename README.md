@@ -2,4 +2,4 @@
 
 Patika.dev Front-End Eğitimi kapsamında yaptığım üçüncü JavaScript ödevi.
 
-[Live Demo](https://vercel.com/sirwozy/asiankitchen-menu-patika-dev/7472F8Vsc2ZfvhTNNnJ8DYYXKyvC)
+[Live Demo](https://asiankitchen-menu-patika-8hcb7hey0-sirwozy.vercel.app/)
